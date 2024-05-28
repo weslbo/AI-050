@@ -15,7 +15,7 @@ Get AI-050 course materials at [https://learn.microsoft.com/en-us/training/paths
 
 In order to run these samples yourself, you'll need:
 
-- A subscription with Azure OpenAI resource deployed. Recommended to deploy in East US, as we will have to deploy gpt-4o and dall-e-3
+- A subscription with Azure OpenAI resource deployed. Recommended to deploy in East US, as we will have to deploy gpt-4o and dall-e-3. Check out [this](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models) article for region availability
     - 2 Deploments: gpt-4o and dalle3
 - Visual studio Code, with following extensions:
     - Jupyter: https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter
